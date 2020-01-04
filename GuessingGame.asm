@@ -1,4 +1,5 @@
-# October 31, 2019
+# Made by Claudio and Beatriz
+# October 31, 2019.
 
 .data
 	Initial_msg: .asciiz "\nLet's play a guessing game. \nFind out the number between 1 and 10 that I generated. \nEnter 0 to give up\n\n"
