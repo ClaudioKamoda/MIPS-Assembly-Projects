@@ -1,7 +1,5 @@
-#Desafio 1 MIPS
-#Feito por Claudio Jorge Lopes Filho
-#Disciplina: Arquitetura e Organização de Computadores
-#Profª Denise
+# Made by Claudio
+# September 19, 2019
 
 .data
 	error: .asciiz "Out of any interval"
