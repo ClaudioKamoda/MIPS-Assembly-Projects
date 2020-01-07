@@ -25,3 +25,4 @@ The following images show executions of the robotic simulations with MIPS:
 ## Author
 
 * **Claudio Kamoda** - 2019-2
+* Beatriz and Israel
